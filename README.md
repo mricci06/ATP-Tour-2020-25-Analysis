@@ -47,13 +47,13 @@ Key Findings
 ![Top 10 Win % By Surface](visuals/win_pct_by_surface.png)
 The “Top 10 Win % From 2020-2025 By Surface” graph highlights the overarching dominance Djokovic has had, as he claims 3 of the top 6 win percentages on tour. As well, it emphasizes the dominance that certain surface specialists have on their respective surfaces. Ruud on clay, Cilic on grass, Berrettini on grass, all rival Alcaraz and Djokovic's win %.
 
-![Win % vs Ace % on Hard Court](visuals/aces_percentage_hard.png)
+![Win % vs Ace % on Hard Court](visuals/ace_percentage_hard.png)
 R² = 0.067. Ace percentage is a weak predictor of win rate, though slightly stronger here than on clay.
 
-![Win % vs Ace % on Grass](visuals/aces_percentage_grass.png)
+![Win % vs Ace % on Grass](visuals/ace_percentage_grass.png)
 R² = 0.0744. The strongest of the three relationships, but still weak overall.
 
-![Win % vs Ace % on Clay](visuals/aces_percentage_clay.png)
+![Win % vs Ace % on Clay](visuals/ace_percentage_clay.png)
 R² = 0.0113. It is the weakest relationship of the three surfaces, reinforcing that rally consistency and return game matter more than raw serve power on slower courts.
 
 ![Overall vs Last Set Win % Discrepancy](visuals/last_set_win_pct.png)
